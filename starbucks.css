@@ -1,0 +1,289 @@
+body{
+   margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+   background-color: #fff;
+}
+
+div{
+
+    background-color: #f7f7f7;
+    color: #000000;
+}
+
+.green{
+   background-color:rgb(6, 61, 6);
+    width: 100%;
+    height: 10px;
+}
+.header{
+    background-color: #f7f7f7;
+    width: 100%;
+    height: 140px;
+    
+    
+}
+.hidden_visually med_rend{
+    color: black;
+}
+.inside-header{
+   
+    width: 100px;
+    height:140px;
+    margin: 0;
+
+}
+.logo{
+    padding-left: 32px;
+    padding-top: 22px;
+}
+.space{
+    padding-top: 18px;
+    color: black
+
+}
+.co{
+    padding-left: 40px;
+    font: 1em sans-serif;
+    
+}
+.me{
+    padding-left: 15px;
+    width: 40px;
+    font: 1em sans-serif;
+
+}
+.span{
+    font: 1em sans-serif;
+}
+.last-header{
+    background-color: #d31515;
+    width: 40px;
+    height: 175px;
+}
+.find{
+    padding-left: 1260px;
+    padding-top: 25px;
+    background-color: #f7f7f7;
+
+
+}
+
+.location{
+
+    height: 63px;
+    width: 115px;
+    background-color: #f7f7f7;
+    margin-top: -80px;
+    margin-left: 1163px;
+    
+}
+
+.locationstyle{
+    padding-top: 1px;
+    padding-left: 31px;
+}
+
+.ls1{
+    padding-left: 1px;
+    padding-top: 1px;
+
+}
+.spacebet{
+    margin: 0;
+    padding-left: 4px;
+    margin-top: -5px;
+    background-color: rgb(19, 43, 19);
+}
+.rose{
+    width: 100%;
+height: 550px;
+background-color: rgb(243, 189, 189);
+}
+.lightblue{
+    width: 100%;
+    height: 360px;
+    background-color: lightblue;
+}
+.greenout{
+    width: 100%;
+    height: 550;
+    background-color: rgb(2, 37, 2);
+}
+
+.greenshade{
+    
+    margin-top: -3px;
+}
+.aqua{
+    width: 100%;
+    height: 177px;
+    background-color: rgb(161, 216, 238);
+    margin-top: -176px;
+}
+.background{
+    background-color: #f7f7f7;
+    width: 50%;
+    
+}
+.fav{
+    padding-left: 869px;
+    padding-top: 10px;
+    background-color: #f7f7f7;
+}
+.location{
+    padding-bottom: 2px;
+
+}
+.flowerverse{
+    width: 50%;
+    height: 380x;
+    background-color: #fff;
+    display: flex;
+}
+.get{
+    padding-top: 74px;
+   padding-left: 100px;
+   width: 50%;
+}
+.fontsize{
+    font-size: 55px;
+    color: dimgray;
+   
+}
+.buckfont{
+width: 100px;
+
+}
+
+#buck{
+    color: dimgray ;
+    font-size: 57px;
+    margin-bottom: 25px;
+    
+    padding-right: 20px;
+
+
+}
+.redrec{
+    background-color: #d31515;
+    width: 143px;
+    height: 13px;
+    display: flex;
+    align-items:center ;
+    margin-left: 150px;
+}
+.greenbutton{
+    width:316px ;
+    height: 66px;
+    background-color: rgb(18, 139, 18);
+    margin-top: 29px;
+    margin-left: 81px;
+}
+.shop{
+
+color: #fff;
+    width: 10px;
+    height: 10px;
+    padding-left: 14px;
+    font-size: 55px;
+}
+.para1{
+    width: 532px;
+    font-size: 22px;
+    margin-right: 8px;
+    padding-left: -7px;
+    margin-left: -61px;
+
+}
+.teacup{
+    width: 100%;
+    height: 970px;
+    background-color: #fff;
+    color: #fff;
+}
+.teacup1{
+    width: 30%;
+    margin-top: 103px;
+    margin-left: 79px;
+    
+
+}
+.para2{
+    margin-top: -305px;
+    margin-left: 796px;
+    font-weight: 300;
+    font-size: 34px;
+}
+.italic-word{
+    margin-left: 741px;
+    font-size: 23px;
+}
+.next-near-twomen{
+    margin-top: 455px;
+    margin-left: 89px;
+    font-weight: 300;
+    font-size: 13px;
+    
+}
+.i1{
+    font-weight: 100;
+}
+.mens{
+    margin-left: 614px;
+    margin-top: -242px;
+}
+.thirdlast-block{
+    width: 100%;
+    height: 100px;
+    background-color rgb (237 236 236);
+}
+.secondlast-block{
+    width: 100%;
+    height: 110px;
+    background-color :rgb(237 236 236);
+   
+}
+.social-icon{
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.last-block{
+    width: 100%;
+    height: 300px;
+}
+.about{
+
+    padding-top: 49px;
+    padding-left: 23px
+}
+.heritage{
+    padding-left: 20px;
+    
+}
+.coustemer{
+    padding-left: 115px;
+    padding-top: 52px;
+}
+.faq{
+    padding-left: 112px;
+}
+.str-loc{
+    padding-left: 25px;
+}
+.qu-li{
+    padding-left: 25px;
+    padding-top: 51px;
+}
+.lastpara{
+    padding-left: 58px;
+    padding-top: 20px;
+}
+.ltd{
+    height: 6px;
+    padding-left: 59px;
+}
+.final-touch{
+    padding-left: 1360px;
+    margin-top:-166px;
+}
